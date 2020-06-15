@@ -1,0 +1,4 @@
+/node_modules/*
+apimysql-linux
+apimysql-macos
+apimysql-win.exe

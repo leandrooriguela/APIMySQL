@@ -1,0 +1,10 @@
+{
+  "port": 3000,
+    "db": {
+      "server": "localhost",
+      "user": "root",
+      "database": "monteazul",
+      "password": "123456big"
+    }
+
+}
